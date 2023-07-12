@@ -2,12 +2,12 @@
 aif 서비스 사용량 검사방법
 
 
-software version
+** software version
 python3, gradio version 3.1.5
 
-설명
+** 설명
 
-순서
+** 순서
 1. URL를 통해 gradio web server에 사용자 키값 전달 방법
    - URL Parameter 로 키값 전달 : 예시) http(s)://서비스주소/?key=value
 3. gradio 에 전달된 사용자 키값을 변수로 가져오는 방법
