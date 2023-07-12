@@ -26,5 +26,5 @@ python3, gradio version 3.1.5
 7. chatbot으로 수행할때 유의 할 점
    - 실행시 gen_btn 버튼으로 초기화
    - gen_btn 의 _js=get_window_url_params 사용하여 url_params 을  key : value 형태로 가져옴
-   - chat 함수 실행할 때 url_params['key']  를 가져와서 sendRequestForService 함수로 전달 이후과정은 위와 동일 
+   - chat 함수 실행할 때 url_params['key']  를 가져와서 sendRequestForService 함수로 전달 이후 과정은 위와 동일 
    default_chatbot.py 참고 
