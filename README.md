@@ -6,6 +6,7 @@
 python3, gradio version 3.1.5
 
 **설명**
+
 **순서**
 1. URL를 통해 gradio web server에 사용자 키값 전달 방법
    - URL Parameter 로 키값 전달 : 예시) http(s)://서비스주소/?key=value
